@@ -67,5 +67,4 @@ public class s2 : MonoBehaviour
         textName.text = names[cNumber];
         if (currentLine == 0) textDisplay.text = tmp[1];
     }
-
 }
